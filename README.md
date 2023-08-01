@@ -1,2 +1,2 @@
 # django webSocket
- This is simple real tiche chat with django and webSocket
+ This is simple real time chat with django and webSocket
